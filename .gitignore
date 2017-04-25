@@ -1,7 +1,5 @@
 # ignore all emptyFolder files
 emptyFolder/*
-emptyFolder3/*
 
 # don't ignore keep files
-!emptyFolder/.gitkeep
-!emptyFolder3/.gitkeep
+!.gitkeep
