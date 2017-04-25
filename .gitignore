@@ -1,6 +1,5 @@
 # ignore all logs files
 emptyFolder/*
-emptyFolder2/*
 
 # don't ignore keep files
 !emptyFolder/.gitkeep
