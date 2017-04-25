@@ -1,6 +1,5 @@
 # ignore all emptyFolder files
-emptyFolder2/fileToIgnore.txt
-emptyFolder2/fileTest.txt
+emptyFolder2/*
 
 # don't ignore keep files
 !.gitkeep
