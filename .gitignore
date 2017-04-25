@@ -1,6 +1,6 @@
 # ignore all emptyFolder files
-emptyFolder2/*
+emptyFolder3/*
 
 # don't ignore keep files
 !.gitkeep
-!emptyFolder2/fileTest.txt
+!emptyFolder3/fileTest.txt
