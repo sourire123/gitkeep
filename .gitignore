@@ -1,6 +1,5 @@
-# ignore all emptyFolder files
-emptyFolder3/*
+# ignore files in folder emptyFolder
+emptyFolder/*
 
-# don't ignore keep files
-!.gitkeep
-!emptyFolder3/fileTest.txt
+# but keep the folder
+!emptyFolder/.gitkeep
